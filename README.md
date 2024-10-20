@@ -3,7 +3,7 @@
 ### About Tool
 <div align="center">
   <img src="https://i.imgur.com/DJEZGdY.jpg" alt="Index" width="200" height="400"> 
-</div>
+</
 
 The WormGPT tool is a tool that helps you create unethical tools in any programming language and helps you do anything unethical. You are not responsible for any incorrect use of the tool. 
 
